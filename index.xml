@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheriel Neo</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Cheriel Neo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 30 May 2020 15:26:55 +0900</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Cheriel is a big barlo.</description>
+    </item>
+    
+  </channel>
+</rss>
